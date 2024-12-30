@@ -15,5 +15,5 @@ A collection of pre-built queries for popular SIEM platforms to detect common th
 ## Usage
 Clone this repository and navigate to the relevant platform folder for queries:
 ```bash
-git clone https://github.com/yourusername/threat-hunting-library.git
+git clone https://github.com/DavidSpurlock/threat-hunting-library.git
 cd threat-hunting-library
